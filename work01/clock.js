@@ -49,3 +49,26 @@ function StopClock(){
     stopwatch.stop();
     stopwatch2.stop();
 }
+
+
+
+/*
+
+function logging() {
+    console.log("logging!@");
+    return  "logging!@@"
+}
+
+
+let id = 0;
+function deleligator(callback) {
+
+    callback();
+    return id++;
+}
+
+
+var _id = deleligator(logging)
+console.log(_id)
+
+*/
